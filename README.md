@@ -1,6 +1,6 @@
 # Intro to SQL: Querying and Managing Data    
 
-## Overview**  
+## Overview
 This portfolio highlights my understanding of SQL fundamentals, including:
 - Writing efficient queries to retrieve and manipulate data
 - Working with multiple tables using joins
